@@ -1,2 +1,3 @@
 # myRp
-This is my first repository!
+# 仿淘宝网静态网站- taobao
+# 创建时间 2016-10-23
